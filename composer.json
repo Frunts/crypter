@@ -1,0 +1,17 @@
+{
+    "name": "frunts404/crypter",
+    "description": "This is a simple crypter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "frunts404",
+            "email": "17634295626@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Frunts\\SimpleCrypter\\": "src/"
+        }
+    }
+}
